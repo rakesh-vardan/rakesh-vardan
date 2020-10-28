@@ -48,6 +48,14 @@
 
 ---
 
+[![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=rakesh-vardan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-vardan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://about.me/rakeshvardan
 [twitter]: https://twitter.com/rakesh_vardan
 [visualstudiocode]: https://code.visualstudio.com/
