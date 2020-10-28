@@ -3,7 +3,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rakesh_vardan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frakesh_vardan&screen_name=rakesh_vardan)
 
-## I'm a  Developer, and Teacher!!
+
+## I'm a Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
