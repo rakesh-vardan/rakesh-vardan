@@ -42,6 +42,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with deploying PostgreSQL on Docker container](https://rakeshvardan.hashnode.dev/getting-started-with-deploying-postgresql-on-docker-container)
+- [How I prepared for Google Cloud Certified - Associate Cloud Engineer Exam?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rakeshvardan.hashnode.dev/)
