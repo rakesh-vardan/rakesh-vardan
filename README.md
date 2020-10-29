@@ -13,9 +13,10 @@
 
 ## Certifications
 
-[<img align="left" alt="GCP" width="40px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22696052" />][gcp]
+[<img align="left" alt="GCP" width="56px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22696052" />][gcp]
 
 
+<br />
 <br />
 
 ### Connect with me:
