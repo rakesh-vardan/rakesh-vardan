@@ -11,6 +11,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write and listen to music
 
+## Certifications
+
+[<img align="left" alt="GCP" width="40px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22696052" />][gcp]
+
+
+<br />
 
 ### Connect with me:
 
@@ -24,7 +30,6 @@
 
 [<img align="left" alt="Java" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919854.svg" />][java]
 [<img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_square_red.png" />][selenium]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
@@ -32,9 +37,12 @@
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][deno]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
+[<img align="left" alt="Cloud Foundry" width="26px" src="https://www.cloudfoundry.org/wp-content/uploads/2017/01/CFF_Logo_vertical_RGB.png" />][cf]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />][terminal]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
+[<img align="left" alt="IntelliJ-IDEA" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />][intellij]
 
 <br />
 <br />
@@ -76,3 +84,6 @@
 [github]: https://github.com/
 [terminal]: https://github.com/microsoft/terminal
 [selenium]: https://www.selenium.dev/
+[intellij]: https://www.jetbrains.com/idea/
+[cf]: https://www.cloudfoundry.org/
+[gcp]: https://googlecloudcertified.credential.net/profile/0f5f3ceb4be2c782b227c8c8a69fa29f6dae4e47
