@@ -32,12 +32,17 @@
 
 [<img align="left" alt="Java" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919854.svg" />][java]
 [<img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_square_red.png" />][selenium]
+[<img align="left" alt="REST-Assured" width="26px" src="https://github.com/rest-assured/rest-assured/raw/master/rest-assured-logo-green.png" />][restassured]
+[<img align="left" alt="Jenkins" width="26px" src="https://coralogix.com/wp-content/uploads/2019/12/Jenkins.png" />][jenkins]
+[<img align="left" alt="Docker" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/docker-7-569438.png" />][docker]
+[<img align="left" alt="GCP" width="26px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />][gcp]
+[<img align="left" alt="AWS" width="26px" src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS.png" />][aws]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][deno]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="Kubernetes" width="26px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" />][kubernetes]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="left" alt="Cloud Foundry" width="26px" src="https://www.cloudfoundry.org/wp-content/uploads/2017/01/CFF_Logo_vertical_RGB.png" />][cf]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -89,3 +94,9 @@
 [intellij]: https://www.jetbrains.com/idea/
 [cf]: https://www.cloudfoundry.org/
 [gcp]: https://googlecloudcertified.credential.net/profile/0f5f3ceb4be2c782b227c8c8a69fa29f6dae4e47
+[jenkins]: https://www.jenkins.io/
+[docker]: https://www.docker.com/
+[restassured]: https://github.com/rest-assured/rest-assured
+[kubernetes]: https://kubernetes.io/
+[gcp]: https://cloud.google.com/
+[aws]: https://aws.amazon.com/
