@@ -38,8 +38,8 @@
 [<img align="left" alt="GCP" width="45px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />][googlecloud]
 [<img align="left" alt="AWS" width="35px" src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS.png" />][aws]
 [<img align="left" alt="Angular" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" />][angular]
-[<img align="left" alt="Spring" width="26px" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png" />][spring]
-[<img align="left" alt="Cloud Foundry" width="32px" src="https://www.cloudfoundry.org/wp-content/uploads/2017/01/CFF_Logo_vertical_RGB.png" />][cf]
+[<img align="left" alt="Spring" width="38px" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png" />][spring]
+[<img align="left" alt="Cloud Foundry" width="48px" src="https://www.cloudfoundry.org/wp-content/uploads/2017/01/CFF_Logo_vertical_RGB.png" />][cf]
 
 <br />
 <br />
