@@ -14,6 +14,8 @@
 ## Certifications
 
 [<img align="left" alt="GCP" width="56px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22696052" />][gcp]
+[<img align="left" alt="GCP" width="56px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27349127" />][gcparch]
+
 
 
 <br />
@@ -100,7 +102,8 @@
 [selenium]: https://www.selenium.dev/
 [intellij]: https://www.jetbrains.com/idea/
 [cf]: https://www.cloudfoundry.org/
-[gcp]: https://googlecloudcertified.credential.net/profile/0f5f3ceb4be2c782b227c8c8a69fa29f6dae4e47
+[gcp]: https://www.credential.net/75051d21-338c-40e6-8d18-1acc650e925b#gs.pj2g6w
+[gcparch]: https://www.credential.net/34b28b63-4dbc-4e64-8431-433a8463c979#gs.pj2e7a
 [jenkins]: https://www.jenkins.io/
 [docker]: https://www.docker.com/
 [restassured]: https://github.com/rest-assured/rest-assured
