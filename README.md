@@ -15,6 +15,8 @@
 
 [<img align="left" alt="GCP" width="56px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22696052" />][gcp]
 [<img align="left" alt="GCP" width="56px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27349127" />][gcparch]
+[<img align="left" alt="AZ900" width="56px" src="https://images.youracclaim.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" />][az900]
+
 
 
 
@@ -112,3 +114,4 @@
 [aws]: https://aws.amazon.com/
 [angular]: https://angular.io/
 [spring]: https://spring.io/
+[az900]: https://www.youracclaim.com/badges/5c211403-a9fb-4e2f-8281-df57dfecfde4
