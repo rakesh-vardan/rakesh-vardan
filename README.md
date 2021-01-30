@@ -71,6 +71,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech bytes# Running Jenkins in a Docker Container](https://rakeshvardan.hashnode.dev/tech-bytes-running-jenkins-in-a-docker-container)
 - [How I prepared for Google Cloud Professional Architect exam?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-professional-architect-exam)
 - [Getting started with deploying PostgreSQL on Docker container](https://rakeshvardan.hashnode.dev/getting-started-with-deploying-postgresql-on-docker-container)
 - [How I prepared for Google Cloud Certified - Associate Cloud Engineer Exam?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam)
