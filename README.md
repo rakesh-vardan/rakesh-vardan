@@ -7,8 +7,8 @@
 ## I'm an Engineer and a Teacher!
 
 - 🔭 I’m currently working on => Java, Spring-boot, Selenium, Angular & PCF
-- 🌱 I’m currently learning Flutter & Deno
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently exploring Cloud Technologies
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write and listen to music
 
 ## Certifications
