@@ -35,7 +35,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919854.svg" />][java]
-[<img align="left" alt="Selenium" width="26px" src="https://www.selenium.dev/images/selenium_logo_square_red.png" />][selenium]
+[<img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/640px-Selenium_Logo.png" />][selenium]
 [<img align="left" alt="REST-Assured" width="60px" src="https://github.com/rest-assured/rest-assured/raw/master/rest-assured-logo-green.png" />][restassured]
 [<img align="left" alt="Jenkins" width="20px" src="https://coralogix.com/wp-content/uploads/2019/12/Jenkins.png" />][jenkins]
 [<img align="left" alt="Docker" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/docker-7-569438.png" />][docker]
