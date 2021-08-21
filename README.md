@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building A CI/CD Pipeline With Travis CI, Docker, And LambdaTest](https://www.lambdatest.com/blog/ci-cd-pipeline-with-travis-ci-docker-and-lambdatest/)
-- [How To Build CI/CD Pipeline With TeamCity For Selenium Test Automation](https://www.lambdatest.com/blog/ci-cd-pipeline-with-teamcity-for-selenium-test-automation/)
 - [How I prepared for Microsoft Azure Fundamentals - AZ 900 exam ?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-microsoft-azure-fundamentals-az-900-exam)
 - [Tech bytes# Running Jenkins in a Docker Container](https://rakeshvardan.hashnode.dev/tech-bytes-running-jenkins-in-a-docker-container)
 - [How I prepared for Google Cloud Professional Architect exam?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-professional-architect-exam)
+- [Getting started with deploying PostgreSQL on Docker container](https://rakeshvardan.hashnode.dev/getting-started-with-deploying-postgresql-on-docker-container)
+- [How I prepared for Google Cloud Certified - Associate Cloud Engineer Exam?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rakeshvardan.hashnode.dev/)
