@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on => Java, Spring-boot, Selenium, Angular & PCF
 - 🌱 I’m currently exploring Cloud Technologies
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write and listen to music
 
 ## Certifications
