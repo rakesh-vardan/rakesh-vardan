@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Chrome&#39;s Copy as CURL for Postman API Calls](https://rakeshvardan.com/how-to-use-chromes-copy-as-curl-for-postman-api-calls)
 - [Building A CI/CD Pipeline With Travis CI, Docker, And LambdaTest](https://rakeshvardan.com/building-a-cicd-pipeline-with-travis-ci-docker-and-lambdatest)
 - [How To Build CI/CD Pipeline With TeamCity For Selenium Test Automation](https://rakeshvardan.com/how-to-build-cicd-pipeline-with-teamcity-for-selenium-test-automation)
 - [How I prepared for Microsoft Azure Fundamentals - AZ 900 exam ?](https://rakeshvardan.com/how-i-prepared-for-microsoft-azure-fundamentals-az-900-exam)
 - [Tech bytes# Running Jenkins in a Docker Container](https://rakeshvardan.com/tech-bytes-running-jenkins-in-a-docker-container)
-- [How I prepared for Google Cloud Professional Architect exam?](https://rakeshvardan.com/how-i-prepared-for-google-cloud-professional-architect-exam)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rakeshvardan.hashnode.dev/)
