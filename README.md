@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chaos Engineering: Embracing Chaos to Build Resilient Systems](https://rakeshvardan.com/chaos-engineering-embracing-chaos-to-build-resilient-systems)
 - [[Java] Reverse words in a String](https://rakeshvardan.com/reverse-words-in-a-sentence)
 - [Azure AI-900 Certification: My Personal Experience](https://rakeshvardan.com/azure-ai-900-certification-my-personal-experience)
 - [How to Use Chrome&#39;s Copy as CURL for Postman API Calls](https://rakeshvardan.com/how-to-use-chromes-copy-as-curl-for-postman-api-calls)
 - [Building A CI/CD Pipeline With Travis CI, Docker, And LambdaTest](https://rakeshvardan.com/building-a-cicd-pipeline-with-travis-ci-docker-and-lambdatest)
-- [How To Build CI/CD Pipeline With TeamCity For Selenium Test Automation](https://rakeshvardan.com/how-to-build-cicd-pipeline-with-teamcity-for-selenium-test-automation)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rakeshvardan.hashnode.dev/)
