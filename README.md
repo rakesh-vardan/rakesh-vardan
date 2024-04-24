@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding and Using &#39;Try-With-Resources&#39; in Java](https://rakeshvardan.com/understanding-and-using-try-with-resources-in-java)
 - [Choosing the Optimal Approach for API Automation](https://rakeshvardan.com/choosing-the-optimal-approach-for-api-automation)
 - [Chaos Engineering: Embracing Chaos to Build Resilient Systems](https://rakeshvardan.com/chaos-engineering-embracing-chaos-to-build-resilient-systems)
 - [[Java] Reverse words in a String](https://rakeshvardan.com/reverse-words-in-a-sentence)
 - [Azure AI-900 Certification: My Personal Experience](https://rakeshvardan.com/azure-ai-900-certification-my-personal-experience)
-- [How to Use Chrome&#39;s Copy as CURL for Postman API Calls](https://rakeshvardan.com/how-to-use-chromes-copy-as-curl-for-postman-api-calls)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rakeshvardan.hashnode.dev/)
