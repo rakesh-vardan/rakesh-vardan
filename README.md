@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Storm: Best Practices for Test Leads When a Bug is Found in Production](https://rakeshvardan.com/navigating-the-storm-best-practices-for-test-leads-when-a-bug-is-found-in-production)
 - [Generative AI Kata: How We Won the Challenge?](https://rakeshvardan.com/generative-ai-kata-how-we-won-the-challenge)
 - [Chaos Engineering: A Comparative Review and Analysis of Tools](https://rakeshvardan.com/chaos-engineering-a-comparative-review-and-analysis-of-tools)
 - [Understanding and Using &#39;Try-With-Resources&#39; in Java](https://rakeshvardan.com/understanding-and-using-try-with-resources-in-java)
 - [Choosing the Optimal Approach for API Automation](https://rakeshvardan.com/choosing-the-optimal-approach-for-api-automation)
-- [Chaos Engineering: Embracing Chaos to Build Resilient Systems](https://rakeshvardan.com/chaos-engineering-embracing-chaos-to-build-resilient-systems)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rakeshvardan.com)
