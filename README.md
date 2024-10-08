@@ -78,7 +78,7 @@
 - [Chaos Engineering: Embracing Chaos to Build Resilient Systems](https://rakeshvardan.com/chaos-engineering-embracing-chaos-to-build-resilient-systems)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://rakeshvardan.hashnode.dev/)
+➡️ [more blog posts...](https://rakeshvardan.com)
 
 ---
 
