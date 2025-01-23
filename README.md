@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Transforming Our Automation Suite: From Challenges to Solutions](https://rakeshvardan.com/transforming-our-automation-suite-from-challenges-to-solutions)
 - [How to Utilize Java &#39;Records&#39; in Test Automation](https://rakeshvardan.com/how-to-utilize-java-records-in-test-automation)
 - [How I Improved Productivity with &#39;Regain&#39; by Reducing Screen Time](https://rakeshvardan.com/how-i-improved-productivity-with-regain-by-reducing-screen-time)
 - [Monitoring the Health of Micro-Services: How we do it?](https://rakeshvardan.com/monitoring-the-health-of-micro-services-how-we-do-it)
 - [Navigating the Storm: Best Practices for Test Leads When a Bug is Found in Production](https://rakeshvardan.com/navigating-the-storm-best-practices-for-test-leads-when-a-bug-is-found-in-production)
-- [Generative AI Kata: How We Won the Challenge?](https://rakeshvardan.com/generative-ai-kata-how-we-won-the-challenge)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rakeshvardan.com)
