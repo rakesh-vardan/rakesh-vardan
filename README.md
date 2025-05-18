@@ -1,74 +1,87 @@
 ### Hi there, I'm Rakesh Vardan 👋
 
-
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=wordpress)](https://rakeshvardan.com/)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakesh-vardan/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rakesh_vardan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frakesh_vardan&screen_name=rakesh_vardan)
 
+---
 
-## I'm an Engineer and a Teacher!
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on => Java, Spring-boot, Selenium, Angular & PCF
-- 🌱 I’m currently exploring Cloud Technologies
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to write and listen to music
+## 🚀 Principal Software Engineer | Test Automation Leader | Mentor
 
-## Certifications
+- 👨‍💻 Principal Software Engineer at [Medtronic](https://www.medtronic.com)
+- 🧑‍💻 **Expertise:** Test Automation, CI/CD, DevOps, Full-Stack Development
+- 🔭 **Tech Focus:** Java, Spring Boot, Selenium, Angular, PCF, **C#**, **.NET**
+- 🌱 **Exploring:** Cloud Technologies, **Generative AI**, **Agentic Test Automation**
+- 📹 **Instructor:** Published a full test automation video course in Java at [GeeksforGeeks](https://www.geeksforgeeks.org/courses/automation-testing-online-course)
+- 🎤 **Speaker:** Delivered an international talk on Ollama at [TestIstanbul 2024](https://testistanbul.org/rakesh-vardan-2024/)
+- 🤝 **Mentor:** Guiding engineers at [Preplaced](https://www.preplaced.in/profile/rakesh-vardan) (Excellent mentee reviews)
+- 🥅 **2025 Goals:** Contribute more to Open Source, advance AI-driven testing
+- ⚡ **Fun fact:** I love to write and listen to music
+
+---
+
+## 🏆 Competitive Edge
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rakesh-vardan&theme=dracula&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 💡 **Innovator:** Early adopter of agentic test automation and generative AI in QA
+- 🏅 **Competitor:** Active in coding challenges and hackathons
+- 🌍 **Global Impact:** Speaker at international conferences
+
+---
+
+## 🛠️ Tech Stack at a Glance
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-2563EB?style=for-the-badge&logo=cloudfoundry&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 🎓 Certifications
 
 [<img align="left" alt="GCP" width="56px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22696052" />][gcp]
-[<img align="left" alt="GCP" width="56px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27349127" />][gcparch]
-[<img align="left" alt="AZ900" width="56px" src="https://images.youracclaim.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" />][az900]
-
-
-
-
-<br />
-<br />
-
-
-### Connect with me:
-
-[<img align="left" alt="rakesh_vardan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rakesh_vardan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Java" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919854.svg" />][java]
-[<img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/640px-Selenium_Logo.png" />][selenium]
-[<img align="left" alt="REST-Assured" width="60px" src="https://github.com/rest-assured/rest-assured/raw/master/rest-assured-logo-green.png" />][restassured]
-[<img align="left" alt="Jenkins" width="20px" src="https://coralogix.com/wp-content/uploads/2019/12/Jenkins.png" />][jenkins]
-[<img align="left" alt="Docker" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/docker-7-569438.png" />][docker]
-[<img align="left" alt="GCP" width="45px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />][googlecloud]
-[<img align="left" alt="AWS" width="35px" src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS.png" />][aws]
-[<img align="left" alt="Angular" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" />][angular]
-[<img align="left" alt="Spring" width="38px" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo.png" />][spring]
-[<img align="left" alt="Cloud Foundry" width="48px" src="https://www.cloudfoundry.org/wp-content/uploads/2017/01/CFF_Logo_vertical_RGB.png" />][cf]
-
-<br />
-<br />
-<br />
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][deno]
-[<img align="left" alt="Kubernetes" width="26px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" />][kubernetes]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />][terminal]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
-[<img align="left" alt="IntelliJ-IDEA" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />][intellij]
+[<img align="left" alt="GCP Architect" width="56px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27349127" />][gcparch]
+[<img align="left" alt="AZ900" width="56px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" />][az900]
+[<img align="left" alt="Azure AI Fundamentals" width="56px" src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" />][azureai]
 
 <br />
 <br />
 
 ---
 
+## 🚀 Recent Highlights
 
-### 📕 Latest Blog Posts
+- 📹 **Published Course:** [Full Test Automation in Java (GeeksforGeeks)](https://www.geeksforgeeks.org/courses/automation-testing-online-course)
+- 🌍 **International Speaker:** [Ollama at TestIstanbul 2024](https://testistanbul.org/rakesh-vardan-2024/)
+- 🧑‍💼 **Mentor:** [Preplaced](https://www.preplaced.in/profile/rakesh-vardan) (Excellent mentee reviews)
+- 🧠 **Exploring:** Generative AI, Agentic Test Automation, C#, .NET
+
+---
+
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Transforming Our Automation Suite: From Challenges to Solutions](https://rakeshvardan.com/transforming-our-automation-suite-from-challenges-to-solutions)
@@ -86,12 +99,11 @@
 
 ---
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-vardan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[website]: https://about.me/rakeshvardan
+[website]: https://rakeshvardan.com
 [twitter]: https://twitter.com/rakesh_vardan
+[linkedin]: https://www.linkedin.com/in/rakesh-vardan/
 [java]: https://www.java.com/
 [visualstudiocode]: https://code.visualstudio.com/
 [html5]: https://en.wikipedia.org/wiki/HTML5
@@ -117,4 +129,7 @@
 [aws]: https://aws.amazon.com/
 [angular]: https://angular.io/
 [spring]: https://spring.io/
-[az900]: https://www.youracclaim.com/badges/5c211403-a9fb-4e2f-8281-df57dfecfde4
+[az900]: https://www.credly.com/badges/5c211403-a9fb-4e2f-8281-df57dfecfde4?source=linked_in_profile
+[azureai]: https://learn.microsoft.com/en-in/users/rakeshbudugu-7267/credentials/ed48afcf032f5521?ref=https%3A%2F%2Fwww.linkedin.com%2F
+[dotnet]: https://dotnet.microsoft.com/
+[csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
