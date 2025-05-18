@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Principal Software Engineer | Test Automation Leader | Mentor
+## 🚀 Principal Software Engineer | Test Automation Leader | Mentor | Speaker
 
 - 👨‍💻 Principal Software Engineer at [Medtronic](https://www.medtronic.com)
 - 🧑‍💻 **Expertise:** Test Automation, CI/CD, DevOps, Full-Stack Development
