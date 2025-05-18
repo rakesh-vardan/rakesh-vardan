@@ -6,9 +6,6 @@
 
 ---
 
-<br/>
-<img align="right" alt="Coding" width="200" style="margin-top: 20px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ## 🚀 Principal Software Engineer | Test Automation Leader | Mentor
 
 - 👨‍💻 Principal Software Engineer at [Medtronic](https://www.medtronic.com)
