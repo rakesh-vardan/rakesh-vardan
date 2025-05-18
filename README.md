@@ -4,21 +4,10 @@
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakesh-vardan/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rakesh_vardan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frakesh_vardan&screen_name=rakesh_vardan)
 
----
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 🚀 Principal Software Engineer | Test Automation Leader | Mentor
-
-- 👨‍💻 Principal Software Engineer at [Medtronic](https://www.medtronic.com)
-- 🧑‍💻 **Expertise:** Test Automation, CI/CD, DevOps, Full-Stack Development
-- 🔭 **Tech Focus:** Java, Spring Boot, Selenium, Angular, PCF, **C#**, **.NET**
-- 🌱 **Exploring:** Cloud Technologies, **Generative AI**, **Agentic Test Automation**
-- 📹 **Instructor:** Published a full test automation video course in Java at [GeeksforGeeks](https://www.geeksforgeeks.org/courses/automation-testing-online-course)
-- 🎤 **Speaker:** Delivered an international talk on Ollama at [TestIstanbul 2024](https://testistanbul.org/rakesh-vardan-2024/)
-- 🤝 **Mentor:** Guiding engineers at [Preplaced](https://www.preplaced.in/profile/rakesh-vardan) (Excellent mentee reviews)
-- 🥅 **2025 Goals:** Contribute more to Open Source, advance AI-driven testing
-- ⚡ **Fun fact:** I love to write and listen to music
+|   |   |
+|---|--:|
+| <div><h2>🚀 Principal Software Engineer \| Test Automation Leader \| Mentor</h2><ul><li>👨‍💻 Principal Software Engineer at <a href="https://www.medtronic.com">Medtronic</a></li><li>🧑‍💻 <strong>Expertise:</strong> Test Automation, CI/CD, DevOps, Full-Stack Development</li><li>🔭 <strong>Tech Focus:</strong> Java, Spring Boot, Selenium, Angular, PCF, <strong>C#</strong>, <strong>.NET</strong></li><li>🌱 <strong>Exploring:</strong> Cloud Technologies, <strong>Generative AI</strong>, <strong>Agentic Test Automation</strong></li><li>📹 <strong>Instructor:</strong> Published a full test automation video course in Java at <a href="https://www.geeksforgeeks.org/courses/automation-testing-online-course">GeeksforGeeks</a></li><li>🎤 <strong>Speaker:</strong> Delivered an international talk on Ollama at <a href="https://testistanbul.org/rakesh-vardan-2024/">TestIstanbul 2024</a></li><li>🤝 <strong>Mentor:</strong> Guiding engineers at <a href="https://www.preplaced.in/profile/rakesh-vardan">Preplaced</a> (Excellent mentee reviews)</li><li>🥅 <strong>2025 Goals:</strong> Contribute more to Open Source, advance AI-driven testing</li><li>⚡ <strong>Fun fact:</strong> I love to write and listen to music</li></ul></div> | <img alt="Coding" width="365" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> |
 
 ---
 
