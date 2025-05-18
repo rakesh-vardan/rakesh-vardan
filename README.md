@@ -1,7 +1,7 @@
 ### Hi there, I'm Rakesh Vardan 👋
 
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=wordpress)](https://rakeshvardan.com/)
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakesh-vardan/)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakeshvardan/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rakesh_vardan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frakesh_vardan&screen_name=rakesh_vardan)
 
 ---
@@ -43,6 +43,13 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Langchain](https://img.shields.io/badge/🦜Langchain-121212?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-6B46C1?style=for-the-badge&logo=microsoft&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-4A4A55?style=for-the-badge&logo=meta&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
